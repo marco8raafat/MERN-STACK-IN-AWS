@@ -252,6 +252,7 @@ Create React app:
 ```bash
 npx create-react-app client
 ```
+create-react-app is deprecated and not recommended for new projects. It was used here for learning purposes. In production projects, Vite or Next.js should be used instead.
 
 Install dependencies:
 
