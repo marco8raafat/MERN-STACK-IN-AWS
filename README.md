@@ -333,10 +333,8 @@ Your **MERN stack application** is fully operational:
 # 📚 Side Self Study Topics
 
 * Types of DBMS (Relational vs NoSQL)
-* Web Application Frameworks (Backend & Frontend)
 * RESTful APIs
-* JavaScript Basics
-* CSS Fundamentals
+* Postman
 
 ---
 
